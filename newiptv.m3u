@@ -40,14 +40,11 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/10/49/ec/1049ece0-ab89-1848-2c7e-f0c31130c0bd/source/512x512bb.jpg" group-title="Jagobd", R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
-Republic bangla
+ #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.tfkvVvbjN8npI-qzX5QyvwHaFj?rs=1&pid=ImgDetMain" group-title="Jagobd", Republic bangla 
 https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://dreamdth.com/wp-content/uploads/2020/11/TV9-Bangla-AMP-Logo.jpg" group-title="Jagobd", Tv9
 https://ythls.armelin.one/channel/UCHCR4UFsGwd_VcDa0-a4haw.m3u8
-
-#EXTINF:-1 tvg-logo="https://aeonixinnovations.com/media/Zee.jpg" group-title="Jagobd", CHANNEL 24
-https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="Bangladesh", Boishakhi TV HD
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -136,7 +133,7 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vv7rV1v/image-Content-11915-j9l5clzs-m1.webp" group-title="SR Movies", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="SR Entertainment", Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://www.zooinfotech.com/wp-content/uploads/2020/01/2-8.jpg" group-title="SR Entertainment", Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="SR Movies", & Pictures HD
