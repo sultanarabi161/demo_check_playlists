@@ -139,10 +139,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="SR Movies", & Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest?cb=20220525063636" group-title="Indian Channels", ZING
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_07/076ddd16ed75016ebb9a7338139a2305.jpeg" group-title="Indian Channels", ZING
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing1/default/zing.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="Movies", ZEE ACTION
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="Movies", ZEE ACTION
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tYcNbLy/20240827-090809.png" group-title="Hindi Movies", BOLLYWOOD HD
@@ -171,12 +171,9 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yV30RC/IMG-20240126-084454.jpg" group-title="YouTube", N TV
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
-#EXTINF:-1 group-title="Sports", Real Madrid TV
+#EXTINF:-1 tvg-logo="https://tvprogramacion.net/img/canales/real-madrid-tv.png" group-title="Sports", Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 
-#EXTINF:-1 group-title="Hindi News", ABP News
+#EXTINF:-1 tvg-logo="https://indiancybersecuritysolutions.com/print-media-coverage/assets/img/da9f6bbd55078c6ff8520c7183a8a8c5.png" group-title="Sports", ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-
-
-
 
