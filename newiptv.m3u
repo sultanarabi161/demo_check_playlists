@@ -135,6 +135,23 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:-1 tvg-logo="https://tvprogramacion.net/img/canales/real-madrid-tv.png" group-title="Sports", Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXFOyzyD_StzIsw2VF6y6qWNw6mrdvK0OHx4PfHtj5YBjwDdUWz8PixitS&s=10" group-title="Sports", DD Sports
+https://cdn1.pishow.tv/live/187/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2pWPzQCMneqFi4OejoXK5_Vlvct7Gz3Q0zZproejxbk0ArqdYaGobzgl7&s=10" group-title="Sports", beIN sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5z3S8t-T44ipvwCFx7i4xlHZv7roObV74PYmiAAhl1QDAy9wi3x8Cp--e&s=10" group-title="Sports", TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rFhGnBXMkSdByI2fOWbNQx9Z8dJBN-cz1qfXM_IfB1wcm9FltUbAMUM&s=10" group-title="Sports", 360 Cricket
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0BVpDBIy4qnh4MXwwrIZFRGqzsj185_hiQ&usqp=CAU" group-title="Sports", FL sports
+https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxh4GJlxyhGoIe0w52tfWbqY-hAXRJbRgVJKem_xJ9NZ6JVWIRk7vZA7I&s=10" group-title="Sports", T sports
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=zZDVVjeceTuECGsvRVChXA&expires=1728696488&user=98fbbc7885a9470e920abab5d870f7c3
 
 ### Movies
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="Movies", ZEE ACTION
