@@ -1,5 +1,7 @@
 #EXTM3U — SULTAN ARABI <! ------------ BD Playlist --ben-final - version 1.8---------------->
 
+#EXTINF:-1 tvg-logo="https://example.com/logo.png" group-title="Developer Info", Sultan IPTV
+https://projects-media.vercel.app/projects/info.html
 ### Bangladesh
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvp9cwR/Picsart-23-06-07-11-34-54-734.png" group-title="Bangladesh", CHANNEL 24
